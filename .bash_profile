@@ -1,0 +1,5 @@
+alias data='azuredatastudio'
+alias g='git'
+alias cdr='cd /c/repos'
+alias vs='start'
+alias npp='start notepad++'
