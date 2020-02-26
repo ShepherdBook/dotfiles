@@ -1,0 +1,10 @@
+[user]
+	name = Zach Johnston
+	email = <insert email here>
+  
+[alias] 
+	st = status
+	ci = commit
+	co = checkout
+	aa = add --all
+	l = log --graph --pretty='%C(yellow)%h%C(reset) %C(green)(%ar)%C(reset) %C(bold blue)%an%C(reset) %C(red)%d%C(reset) %s'
